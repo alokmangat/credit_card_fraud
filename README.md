@@ -20,6 +20,9 @@ Credit card fraud is a serious financial issue that affects both consumers and f
 - Model evaluation using accuracy, precision, recall, and confusion matrix
 
 
+
+## 🧠 How It Works
+
 1. **Load the dataset**
 2. **Explore & visualize data**
 3. **Preprocess features** (scaling, handling class imbalance)
