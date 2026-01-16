@@ -1,4 +1,4 @@
-# credit_card_fraud
+
 # Credit Card Fraud Detection 🕵️‍♂️💳
 
 A machine learning project to analyze and detect fraudulent credit card transactions using Python and Jupyter Notebook. This project explores data preprocessing, model training, evaluation, and visualization to distinguish between normal and fraudulent transactions.
@@ -11,4 +11,18 @@ Credit card fraud is a serious financial issue that affects both consumers and f
 
 ---
 
+## 🛠️ Key Features
 
+- Data exploration and visualization
+- Feature preprocessing and scaling
+- Handling imbalanced classes
+- Training machine learning classification algorithms
+- Model evaluation using accuracy, precision, recall, and confusion matrix
+
+
+1. **Load the dataset**
+2. **Explore & visualize data**
+3. **Preprocess features** (scaling, handling class imbalance)
+4. **Train ML models** (e.g., Logistic Regression, Random Forest, SVM)
+5. **Evaluate performance**
+6. **Visualize results**
